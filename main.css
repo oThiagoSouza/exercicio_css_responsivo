@@ -129,9 +129,9 @@ button:hover {
     }
 
     #sobre img {
-        width: 300px;
-        align-items: center;
-        margin-top: 28px;
+        width: 280px;
+        margin-top: 8px;
+        margin-right: 48px;
     }
 
     section {
